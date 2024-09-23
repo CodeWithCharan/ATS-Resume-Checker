@@ -48,5 +48,6 @@ This will start a local Streamlit server where you can interact with the app.
 ├── app.py               # Main app code
 ├── requirements.txt     # Required Python packages
 ├── .env                 # Environment variables for API keys
+├── Demo.mp4             # Demo Video
 └── README.md            # Project documentation
 ```
