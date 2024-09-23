@@ -3,7 +3,7 @@
 This is an AI-powered resume checker that helps you optimize your resume based on a given job description. It evaluates the resume, provides a percentage match, lists missing keywords, and suggests improvements to align with the job description.
 
 ## Demo
-<video controls src="Demo.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/cea43129-75f8-4a22-8672-28ba07375673
 
 ## Requirements
 To run this project, you need to have the following packages installed:
