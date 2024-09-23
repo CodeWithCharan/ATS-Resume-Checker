@@ -41,3 +41,12 @@ This will start a local Streamlit server where you can interact with the app.
 - **Streamlit**: Used for building the web interface.
 - **PyPDF2**: For extracting text from PDF files.
 - **dotenv**: For managing environment variables.
+
+## Project Structure
+```bash
+.
+├── app.py               # Main app code
+├── requirements.txt     # Required Python packages
+├── .env                 # Environment variables for API keys
+└── README.md            # Project documentation
+```
